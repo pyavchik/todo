@@ -13,3 +13,7 @@ npm install
 ```bash
 npm run start
 ```
+open
+```browser
+http://localhost:3000/
+```
